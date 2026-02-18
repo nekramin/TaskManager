@@ -1,0 +1,170 @@
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.exe
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.deps.json
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.runtimeconfig.json
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.pdb
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\MainWindow.g.cs
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\App.g.cs
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop_MarkupCompile.cache
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop_MarkupCompile.lref
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\MainWindow.baml
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.g.resources
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.GeneratedMSBuildEditorConfig.editorconfig
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.AssemblyInfoInputs.cache
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.AssemblyInfo.cs
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.csproj.CoreCompileInputs.cache
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\refint\TaskManagerDesktop.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.pdb
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.genruntimeconfig.cache
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\ref\TaskManagerDesktop.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskEditWindow.baml
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskEditWindow.g.cs
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\AppStyles.baml
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.exe
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.deps.json
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.runtimeconfig.json
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\TaskManagerDesktop.pdb
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\App.baml
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskEditWindow.g.cs
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop_MarkupCompile.cache
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop_MarkupCompile.lref
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\AppStyles.baml
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskEditWindow.baml
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.g.resources
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.AssemblyInfoInputs.cache
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.AssemblyInfo.cs
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.csproj.CoreCompileInputs.cache
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\refint\TaskManagerDesktop.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.pdb
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.genruntimeconfig.cache
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\ref\TaskManagerDesktop.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.csproj.AssemblyReference.cache
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop_Content.g.cs
+C:\Users\apiab\Documents\VR_SA_ISP251\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskMana.389444E3.Up2Date
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop.csproj.AssemblyReference.cache
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskManagerDesktop_Content.g.cs
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\appsettings.json
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Azure.Core.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Azure.Identity.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.ClientModel.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Memory.Data.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\System.Text.Json.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\App.baml
+S:\ИСП 251 УП.01\Василевский Скворцов\TaskManager\TaskManagerDesktop\obj\Debug\net8.0-windows\TaskMana.389444E3.Up2Date
