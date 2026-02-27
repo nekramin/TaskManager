@@ -61,7 +61,7 @@ namespace TaskManagerDesktop {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TaskManagerDesktop;component/taskeditwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TaskManagerDesktop;V1.0.0.0;component/taskeditwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\TaskEditWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

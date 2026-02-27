@@ -3,9 +3,11 @@ using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Data;
 using System.Windows.Input;
+using TaskManagerDesktop.Services;
 
 namespace TaskManagerDesktop
 {
@@ -17,7 +19,10 @@ namespace TaskManagerDesktop
         private string _selectedFilter = "Все задачи";
         private string _selectedSort = "По дате";
         private bool _isGroupByPriority;
+        private bool _isLoading;
+
         private readonly INavigationService _navigationService;
+        private readonly IDataService _dataService;
         private readonly CollectionViewSource _tasksViewSource;
 
         public event PropertyChangedEventHandler PropertyChanged;
@@ -127,25 +132,32 @@ namespace TaskManagerDesktop
         public ICommand DoubleClickCommand { get; }
         public ICommand ExportCommand { get; }
         public ICommand ApplyFilterCommand { get; }
+        public ICommand LoadDataCommand { get; }
 
         public MainViewModel()
         {
             _navigationService = NavigationService.Instance;
-            _tasksViewSource = new CollectionViewSource { Source = Tasks };
+            _dataService = new DataService(_navigationService);
+
+            _tasksViewSource = new CollectionViewSource();
+            _tasksViewSource.Source = Tasks;
 
             AddTaskCommand = new RelayCommand(AddTask);
             EditTaskCommand = new RelayCommand(EditTask, CanEditTask);
             DeleteTaskCommand = new RelayCommand(DeleteTask, CanDeleteTask);
             MarkAsCompletedCommand = new RelayCommand(MarkAsCompleted, CanMarkAsCompleted);
-            RefreshCommand = new RelayCommand(Refresh);
+            RefreshCommand = new AsyncRelayCommand(async o => await RefreshAsync());
             ClearFiltersCommand = new RelayCommand(ClearFilters);
             ExitCommand = new RelayCommand(Exit);
-            DoubleClickCommand = new RelayCommand(OnDoubleClick, CanEditTask);
+            DoubleClickCommand = new RelayCommand(onDoubleClick, CanEditTask);
             ExportCommand = new RelayCommand(ExportTasks);
             ApplyFilterCommand = new RelayCommand(ApplyFilter);
+            LoadDataCommand = new AsyncRelayCommand(async o => await LoadDataAsync());
 
-            StatusMessage = "Готово к работе. Для начала добавьте задачу.";
-            LoadSampleData();
+            StatusMessage = "Готов к работе. Для начала добавьте задачу или используйте тестовые данные.";
+
+            _ = LoadDataAsync();
+
             ConfigureView();
         }
 
@@ -163,6 +175,47 @@ namespace TaskManagerDesktop
             view.Filter = FilterTask;
         }
 
+        public async Task LoadDataAsync()
+        {
+            if (IsLoading)
+                return;
+
+            try
+            {
+                IsLoading = true;
+                StatusMessage = "Загрузка задач из базы данных...";
+
+                await Application.Current.Dispatcher.InvokeAsync(() => Tasks.Clear());
+
+                var tasks = await _dataService.LoadTasksAsync();
+
+                await Application.Current.Dispatcher.InvokeAsync(() =>
+                {
+                    foreach (var task in tasks)
+                        Tasks.Add(task);
+                });
+
+                UpdateStatistics();
+
+                if (Tasks.Count > 0)
+                    SelectedTask = Tasks.First();
+
+                StatusMessage = $"Загружено {Tasks.Count} задач из базы данных. Готово к работе.";
+
+                ApplyFilter();
+            }
+            catch (Exception ex)
+            {
+                StatusMessage = $"Ошибка загрузки данных: {ex.Message}";
+                await Application.Current.Dispatcher.InvokeAsync(() => LoadSampleData());
+                StatusMessage = $"Используются тестовые данные. Загружено {Tasks.Count} задач.";
+            }
+            finally
+            {
+                IsLoading = false;
+            }
+        }
+
         private void LoadSampleData()
         {
             Tasks.Clear();
@@ -173,6 +226,12 @@ namespace TaskManagerDesktop
             }
             UpdateStatistics();
             UpdateStatusMessage();
+        }
+
+        private async Task RefreshAsync()
+        {
+            StatusMessage = "Обновление списка задач...";
+            await LoadDataAsync();
         }
 
         private void AddTask(object parameter)
@@ -280,10 +339,10 @@ namespace TaskManagerDesktop
             }
         }
 
-        private void Refresh(object parameter)
+        private async Task Refresh(object parameter)
         {
             StatusMessage = "Обновление списка задач...";
-            ApplyFilter();
+            await LoadDataAsync();
             StatusMessage = "Список задач обновлён";
         }
 
