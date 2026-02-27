@@ -125,5 +125,44 @@ namespace TaskManagerDesktop.Services
                 throw;
             }
         }
+
+        public async Task<TaskItem> SaveTaskAsync(TaskItem task)
+        {
+            if (task == null)
+                throw new ArgumentNullException(nameof(task));
+
+            try
+            {
+                using (var repository = new TaskRepository())
+                {
+                    return await repository.AddTaskAsync(task);
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine($"Ошибка сохранения задачи: {ex.Message}");
+                throw;
+            }
+        }
+
+        public async Task<bool> UpdateTaskAsync(TaskItem task)
+        {
+            if (task == null)
+                throw new ArgumentNullException(nameof(task));
+
+            try
+            {
+                using (var repository = new TaskRepository())
+                {
+                    int rowsAffected = await repository.UpdateTaskAsync(task);
+                    return rowsAffected > 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine($"Ошибка обновления задачи (Id={task.Id}): {ex.Message}");
+                throw;
+            }
+        }
     }
 }

@@ -8,7 +8,6 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="AppStyles.xaml"/>
             </ResourceDictionary.MergedDictionaries>
-
             <local:ColorToBrushConverter x:Key="ColorToBrushConverter"/>
             <local:PriorityDisplayConverter x:Key="PriorityDisplayConverter"/>
             <local:PriorityToBrushConverter x:Key="PriorityToBrushConverter"/>

@@ -353,5 +353,8 @@ namespace TaskManagerDesktop
             var category = Category.GetDefaultCategories().FirstOrDefault(c => c.Name.Equals(categoryName, StringComparison.OrdinalIgnoreCase));
             Category = category ?? Category.GetDefaultCategories().First(c => c.Name == "Работа");
         }
+
+        public int PriorityId => Priority?.Id ?? 1004;
+        public int? CategoryId => Category?.Id ?? 1002;
     }
 }

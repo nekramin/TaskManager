@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace TaskManagerDesktop.Services
 {
-    internal class IDataService
+    public class IDataService
     {
+        public Task<TaskItem> SaveTaskAsync(TaskItem task)
+        {
+        }
+
+        public Task<bool> UpdateTaskAsync(TaskItem task)
+        {
+        }
     }
 }

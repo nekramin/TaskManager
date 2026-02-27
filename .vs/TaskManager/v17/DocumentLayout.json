@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\repositories\\priorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\repositories\\priorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\taskmanagerdesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\taskmanagerdesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +27,36 @@
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\databasetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\databasetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\infrastructure\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\infrastructure\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\databasetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\databasetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\colortobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\prioritydisplayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\taskeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\taskeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,20 +91,12 @@
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\infrastructure\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\infrastructure\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\taskmanagerdesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|solutionrelative:taskmanagerdesktop\\taskmanagerdesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{856C598C-8889-45C0-9550-8659894CECF5}|TaskManagerDesktop\\TaskManagerDesktop.csproj|c:\\users\\apiab\\documents\\vr_sa_isp251\\taskmanager\\taskmanagerdesktop\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,50 +125,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BooleanToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\BooleanToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\BooleanToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\BooleanToVisibilityConverter.cs",
-              "RelativeToolTip": "TaskManagerDesktop\\BooleanToVisibilityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PriorityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Repositories\\PriorityRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\Repositories\\PriorityRepository.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Repositories\\PriorityRepository.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\Repositories\\PriorityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:33:37.732Z",
+              "WhenOpened": "2026-02-27T13:36:17.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Services\\DataService.cs",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\Services\\DataService.cs",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Services\\DataService.cs",
-              "RelativeToolTip": "TaskManagerDesktop\\Services\\DataService.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAkwIAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:19:09.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDataService.cs",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Services\\IDataService.cs",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\Services\\IDataService.cs",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Services\\IDataService.cs",
-              "RelativeToolTip": "TaskManagerDesktop\\Services\\IDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:18:59.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\MainWindow.xaml",
@@ -176,69 +154,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\appsettings.json",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\appsettings.json",
-              "RelativeToolTip": "TaskManagerDesktop\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-13T12:16:29.857Z",
+              "DocumentIndex": 4,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Services\\DataService.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\Services\\DataService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAmwKUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:19:09.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\MainViewModel.cs",
-              "RelativeToolTip": "TaskManagerDesktop\\MainViewModel.cs",
-              "ViewState": "AgIAAD0BAAAAAAAAAADwv1kBAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:38:33.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\MainWindow.xaml.cs",
               "RelativeToolTip": "TaskManagerDesktop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAANEAAAAAAAAAAADwv+gAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAmwPMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T13:55:54.41Z"
+              "WhenOpened": "2026-02-06T13:55:54.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DatabaseTester.cs",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\DatabaseTester.cs",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\DatabaseTester.cs",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\DatabaseTester.cs",
-              "RelativeToolTip": "TaskManagerDesktop\\DatabaseTester.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAASwBoAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T10:22:13.225Z"
+              "DocumentIndex": 1,
+              "Title": "TaskManagerDesktop.csproj",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskManagerDesktop.csproj",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskManagerDesktop.csproj",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskManagerDesktop.csproj",
+              "RelativeToolTip": "TaskManagerDesktop\\TaskManagerDesktop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T12:21:07.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskRepository.cs",
-              "RelativeToolTip": "TaskManagerDesktop\\TaskRepository.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAUwHcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\Services\\IDataService.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Services\\IDataService.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\Services\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T10:21:22.351Z"
+              "WhenOpened": "2026-02-27T13:26:10.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\TaskItem.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAowGUBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:50:32.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\App.xaml",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\App.xaml",
@@ -250,7 +231,81 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\TaskRepository.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAmwN4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:21:22.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Infrastructure\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\Infrastructure\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Infrastructure\\AppConfiguration.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\Infrastructure\\AppConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:21:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "BooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\BooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\BooleanToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\BooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\BooleanToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:33:37.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\appsettings.json",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\appsettings.json",
+              "RelativeToolTip": "TaskManagerDesktop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T12:16:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\MainViewModel.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\MainViewModel.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAADwv1kBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:38:33.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseTester.cs",
+              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\DatabaseTester.cs",
+              "RelativeDocumentMoniker": "TaskManagerDesktop\\DatabaseTester.cs",
+              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\DatabaseTester.cs",
+              "RelativeToolTip": "TaskManagerDesktop\\DatabaseTester.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAASwBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:22:13.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ColorToBrushConverter.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\ColorToBrushConverter.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\ColorToBrushConverter.cs",
@@ -262,18 +317,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "TaskEditWindow.xaml",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskEditWindow.xaml",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskEditWindow.xaml",
               "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskEditWindow.xaml",
               "RelativeToolTip": "TaskManagerDesktop\\TaskEditWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-06T13:46:03.469Z"
+              "WhenOpened": "2026-02-06T13:46:03.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ModelHelper.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\ModelHelper.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\ModelHelper.cs",
@@ -285,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "PriorityDisplayConverter.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\PriorityDisplayConverter.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\PriorityDisplayConverter.cs",
@@ -297,19 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskItem.cs",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskItem.cs",
-              "RelativeToolTip": "TaskManagerDesktop\\TaskItem.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAkwFQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:26:30.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "TaskEditViewModel.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskEditViewModel.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskEditViewModel.cs",
@@ -321,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Category.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\Category.cs",
@@ -333,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Priority.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Priority.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\Priority.cs",
@@ -345,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\AssemblyInfo.cs",
@@ -357,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Data\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\Data\\DatabaseHelper.cs",
@@ -369,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "DatabaseConnection.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Data\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\Data\\DatabaseConnection.cs",
@@ -381,31 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AppConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Infrastructure\\AppConfiguration.cs",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\Infrastructure\\AppConfiguration.cs",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\Infrastructure\\AppConfiguration.cs",
-              "RelativeToolTip": "TaskManagerDesktop\\Infrastructure\\AppConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T12:21:38.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TaskManagerDesktop.csproj",
-              "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskManagerDesktop.csproj",
-              "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskManagerDesktop.csproj",
-              "ToolTip": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskManagerDesktop.csproj",
-              "RelativeToolTip": "TaskManagerDesktop\\TaskManagerDesktop.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-13T12:21:07.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "AsyncRelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\AsyncRelayCommand.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\AsyncRelayCommand.cs",
@@ -417,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "TaskEditWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\TaskEditWindow.xaml.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\TaskEditWindow.xaml.cs",
@@ -429,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "NavigationService.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\NavigationService.cs",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\NavigationService.cs",
@@ -441,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\apiab\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs",
@@ -453,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AppStyles.xaml",
               "DocumentMoniker": "C:\\Users\\apiab\\Documents\\VR_SA_ISP251\\TaskManager\\TaskManagerDesktop\\AppStyles.xaml",
               "RelativeDocumentMoniker": "TaskManagerDesktop\\AppStyles.xaml",

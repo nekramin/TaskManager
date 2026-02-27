@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Threading;
 using System.Windows.Input;
+using System.Windows.Threading;
+using TaskManagerDesktop.Services;
 
 namespace TaskManagerDesktop
 {
@@ -235,6 +236,57 @@ namespace TaskManagerDesktop
         {
             MessageBox.Show("Функция импорта будет реализована в следующих версиях.",
                             "В разработке", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+
+        private async void TestCrudButton_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                var priorities = await ReferenceDataCache.GetPrioritiesAsync();
+                var category = await ReferenceDataCache.GetCategoriesAsync();
+
+                if (priorities.Count == 0 || category.Count == 0)
+                {
+                    MessageBox.Show("Не удалось загрузить справочные данные из БД.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+
+                MessageBox.Show("Тест 1: Добавление новой задачи...", "Тест CRUD", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                var newTask = new TaskItem
+                {
+                    Title = $"Тестовая задача CRUD от {DateTime.Now:HH:mm:ss}",
+                    Description = "Создана в процессе тестирования методов Add и update.",
+                    DueDate = DateTime.Now.AddDays(7),
+                    Priority = priorities.First(p => p.Name == "Средняя"),
+                    Category = category.First(c => c.Name == "Работа"),
+                    IsCompleted = false
+                };
+
+                var dataService = new DataService();
+                var savedTask = await dataService.SaveTaskAsync(newTask);
+
+                MessageBox.Show($"Задача добавлена успешно!\nID: {savedTask.Id}\nПриоритет ID: {savedTask.Priority.Id}\nКатегория ID: {savedTask.Category.Id}\nОбновите список (F5).", "Тест CRUD - УСПЕХ", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                MessageBox.Show("Тест обновления задачи...", "Тест CRUD", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                if (savedTask.Id > 0)
+                {
+                    MessageBox.Show($"Тест 2: Обновление задачи...", "Тест CRUD", MessageBoxButton.OK, MessageBoxImage.Information);
+                    savedTask.Title = "ОБНОВЛЕННАЯ: " + savedTask.Title;
+                    savedTask.IsCompleted = true;
+                    bool updateResult = await dataService.UpdateTaskAsync(savedTask);
+
+                    if (updateResult)
+                    {
+                        MessageBox.Show("Задача успешно обновлена в БД!\nОбновите список (F5).", "Тест CRUD - УСПЕХ", MessageBoxButton.OK, MessageBoxImage.Information);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка тестирования CRUD:\n{ex.Message}\n{ex.InnerException?.Message}", "Тест CRUD - ОШИБКА", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
     }
 }
